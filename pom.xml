@@ -32,13 +32,13 @@
 	   <repository>
 	      <id>nexus1</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.236.212.179:8919/manoj/repository/Walmart-Release/</url>
+	      <url>http://3.80.219.211:8919/manoj/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus1</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.236.212.179:8919/manoj/repository/Walmart-snapshot/</url>
+	      <url>http://3.80.219.211:8919/manoj/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
     <site>
       <id>site-server</id>
